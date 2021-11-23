@@ -15,7 +15,14 @@ export default function Home() {
         <h1 className={styles.title}>Bem vindo ao Hcode Café!</h1>
 
         <p className={styles.description}>
-          Get started by editing{" "}
+          Toda Segunda-feira 21:00hs
+          <a
+            href="https://youtube.com/hcodebrasil?sub_confirmation=1"
+            target="_blank"
+            title="Inscreva-se hoje mesmo"
+          >
+            Não perca
+          </a>
           <code className={styles.code}>pages/index.js</code>
         </p>
 
